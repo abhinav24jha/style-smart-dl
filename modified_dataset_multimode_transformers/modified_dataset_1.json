@@ -1,0 +1,64 @@
+{
+    "dataset": [
+        {
+            "image_upper_cloth": "/Users/abhinavjha/Desktop/binaryClassification_&_segmentation/proper_segmented_clothes/batch_1/class_UpperBodyClothes_4beac1a2ceb6ff197cd14c57547d5356.jpg.png",
+            "image_lower_cloth": "/Users/abhinavjha/Desktop/binaryClassification_&_segmentation/proper_segmented_clothes/batch_1/class_LowerBodyClothes_4beac1a2ceb6ff197cd14c57547d5356.jpg.png",
+            "weather": "Warm",
+            "schedule": "Casual"
+        },
+        {
+            "image_upper_cloth": "/Users/abhinavjha/Desktop/binaryClassification_&_segmentation/proper_segmented_clothes/batch_1/class_UpperBodyClothes_14a69ae13f20f3c62aab8adecfb5d239.jpg.png",
+            "image_lower_cloth": "/Users/abhinavjha/Desktop/binaryClassification_&_segmentation/proper_segmented_clothes/batch_1/class_LowerBodyClothes_14a69ae13f20f3c62aab8adecfb5d239.jpg.png",
+            "weather": "Cool",
+            "schedule": "Outdoor"
+        },
+        {
+            "image_upper_cloth": "/Users/abhinavjha/Desktop/binaryClassification_&_segmentation/proper_segmented_clothes/batch_1/class_UpperBodyClothes_a8e411333a3df03b870dbe7cd07ac0dd.jpg.png",
+            "image_lower_cloth": "/Users/abhinavjha/Desktop/binaryClassification_&_segmentation/proper_segmented_clothes/batch_1/class_LowerBodyClothes_a8e411333a3df03b870dbe7cd07ac0dd.jpg.png",
+            "weather": "Cool",
+            "schedule": "Casual"
+        },
+        {
+            "image_upper_cloth": "/Users/abhinavjha/Desktop/binaryClassification_&_segmentation/proper_segmented_clothes/batch_1/class_UpperBodyClothes_coats-data.jpg.png",
+            "image_lower_cloth": "/Users/abhinavjha/Desktop/binaryClassification_&_segmentation/proper_segmented_clothes/batch_1/class_LowerBodyClothes_coats-data.jpg.png",
+            "weather": "Cold",
+            "schedule": "Outdoor"
+        },
+        {
+            "image_upper_cloth": "/Users/abhinavjha/Desktop/binaryClassification_&_segmentation/proper_segmented_clothes/batch_1/class_UpperBodyClothes_eda5f6b4c87a0c04638a87a7e47d9950.jpg.png",
+            "image_lower_cloth": "/Users/abhinavjha/Desktop/binaryClassification_&_segmentation/proper_segmented_clothes/batch_1/class_LowerBodyClothes_eda5f6b4c87a0c04638a87a7e47d9950.jpg.png",
+            "weather": "Mild",
+            "schedule": "Formal"
+        },
+        {
+            "image_upper_cloth": "/Users/abhinavjha/Desktop/binaryClassification_&_segmentation/proper_segmented_clothes/batch_1/class_UpperBodyClothes_fc1a9f1373809b0ac40d4955e403394a.jpg.png",
+            "image_lower_cloth": "/Users/abhinavjha/Desktop/binaryClassification_&_segmentation/proper_segmented_clothes/batch_1/class_LowerBodyClothes_fc1a9f1373809b0ac40d4955e403394a.jpg.png",
+            "weather": "Hot",
+            "schedule": "Outdoor"
+        },
+        {
+            "image_upper_cloth": "/Users/abhinavjha/Desktop/binaryClassification_&_segmentation/proper_segmented_clothes/batch_1/class_UpperBodyClothes_il_fullxfull.4222662857_fpjx.webp.png",
+            "image_lower_cloth": "/Users/abhinavjha/Desktop/binaryClassification_&_segmentation/proper_segmented_clothes/batch_1/class_LowerBodyClothes_il_fullxfull.4222662857_fpjx.webp.png",
+            "weather": "Mild",
+            "schedule": "Formal"
+        },
+        {
+            "image_upper_cloth": "/Users/abhinavjha/Desktop/binaryClassification_&_segmentation/proper_segmented_clothes/batch_1/class_UpperBodyClothes_images.jpg.png",
+            "image_lower_cloth": "/Users/abhinavjha/Desktop/binaryClassification_&_segmentation/proper_segmented_clothes/batch_1/class_LowerBodyClothes_images.jpg.png",
+            "weather": "Warm",
+            "schedule": "Casual"
+        },
+        {
+            "image_upper_cloth": "/Users/abhinavjha/Desktop/binaryClassification_&_segmentation/proper_segmented_clothes/batch_1/class_UpperBodyClothes_Screenshot 2024-08-25 at 8.33.33\u202fAM.png.png",
+            "image_lower_cloth": "/Users/abhinavjha/Desktop/binaryClassification_&_segmentation/proper_segmented_clothes/batch_1/class_LowerBodyClothes_Screenshot 2024-08-25 at 8.33.33\u202fAM.png.png",
+            "weather": "Warm",
+            "schedule": "Sporty"
+        },
+        {
+            "image_upper_cloth": "/Users/abhinavjha/Desktop/binaryClassification_&_segmentation/proper_segmented_clothes/batch_1/class_UpperBodyClothes_Sustainably+Chic+_+Sustainable+Fashion+Blog+_+Best+Sustainable+Mens+Clothing+Brands+.jpg.png",
+            "image_lower_cloth": "/Users/abhinavjha/Desktop/binaryClassification_&_segmentation/proper_segmented_clothes/batch_1/class_LowerBodyClothes_Sustainably+Chic+_+Sustainable+Fashion+Blog+_+Best+Sustainable+Mens+Clothing+Brands+.jpg.png",
+            "weather": "Warm",
+            "schedule": "Outdoor"
+        }
+    ]
+}

@@ -1,0 +1,64 @@
+{
+    "dataset": [
+        {
+            "image_upper_cloth": "/Users/abhinavjha/Desktop/binaryClassification_&_segmentation/proper_segmented_clothes/batch_5/class_UpperBodyClothes_8e1bd20047db36a982eba7e86b0f5f6d.jpg.png",
+            "image_lower_cloth": "/Users/abhinavjha/Desktop/binaryClassification_&_segmentation/proper_segmented_clothes/batch_5/class_LowerBodyClothes_8e1bd20047db36a982eba7e86b0f5f6d.jpg.png",
+            "weather": "Cool",
+            "schedule": "Casual"
+        },
+        {
+            "image_upper_cloth": "/Users/abhinavjha/Desktop/binaryClassification_&_segmentation/proper_segmented_clothes/batch_5/class_UpperBodyClothes_23b9754f14da3f1ffaacd87a8edad81d.jpg.png",
+            "image_lower_cloth": "/Users/abhinavjha/Desktop/binaryClassification_&_segmentation/proper_segmented_clothes/batch_5/class_LowerBodyClothes_23b9754f14da3f1ffaacd87a8edad81d.jpg.png",
+            "weather": "Cool",
+            "schedule": "Casual"
+        },
+        {
+            "image_upper_cloth": "/Users/abhinavjha/Desktop/binaryClassification_&_segmentation/proper_segmented_clothes/batch_5/class_UpperBodyClothes_112bb16ecfd89bd4ad96f06760584a2d.jpg.png",
+            "image_lower_cloth": "/Users/abhinavjha/Desktop/binaryClassification_&_segmentation/proper_segmented_clothes/batch_5/class_LowerBodyClothes_112bb16ecfd89bd4ad96f06760584a2d.jpg.png",
+            "weather": "Warm",
+            "schedule": "Casual"
+        },
+        {
+            "image_upper_cloth": "/Users/abhinavjha/Desktop/binaryClassification_&_segmentation/proper_segmented_clothes/batch_5/class_UpperBodyClothes_370f0fcb27622a68cfca5b83d19814ed.jpg.png",
+            "image_lower_cloth": "/Users/abhinavjha/Desktop/binaryClassification_&_segmentation/proper_segmented_clothes/batch_5/class_LowerBodyClothes_370f0fcb27622a68cfca5b83d19814ed.jpg.png",
+            "weather": "Cool",
+            "schedule": "Outdoor"
+        },
+        {
+            "image_upper_cloth": "/Users/abhinavjha/Desktop/binaryClassification_&_segmentation/proper_segmented_clothes/batch_5/class_UpperBodyClothes_637c59aa330615d51f4227b3e1d3b3bd.jpg.png",
+            "image_lower_cloth": "/Users/abhinavjha/Desktop/binaryClassification_&_segmentation/proper_segmented_clothes/batch_5/class_LowerBodyClothes_637c59aa330615d51f4227b3e1d3b3bd.jpg.png",
+            "weather": "Mild",
+            "schedule": "Casual"
+        },
+        {
+            "image_upper_cloth": "/Users/abhinavjha/Desktop/binaryClassification_&_segmentation/proper_segmented_clothes/batch_5/class_UpperBodyClothes_87073e57ae48ab4c960b5baba201473c.jpg.png",
+            "image_lower_cloth": "/Users/abhinavjha/Desktop/binaryClassification_&_segmentation/proper_segmented_clothes/batch_5/class_LowerBodyClothes_87073e57ae48ab4c960b5baba201473c.jpg.png",
+            "weather": "Mild",
+            "schedule": "Casual"
+        },
+        {
+            "image_upper_cloth": "/Users/abhinavjha/Desktop/binaryClassification_&_segmentation/proper_segmented_clothes/batch_5/class_UpperBodyClothes_a84fe3101aff738e558802e4fb3594b5.jpg.png",
+            "image_lower_cloth": "/Users/abhinavjha/Desktop/binaryClassification_&_segmentation/proper_segmented_clothes/batch_5/class_LowerBodyClothes_a84fe3101aff738e558802e4fb3594b5.jpg.png",
+            "weather": "Cool",
+            "schedule": "Outdoor"
+        },
+        {
+            "image_upper_cloth": "/Users/abhinavjha/Desktop/binaryClassification_&_segmentation/proper_segmented_clothes/batch_5/class_UpperBodyClothes_c960e8e6d491f2d9e53fe9d93ef612a2.jpg.png",
+            "image_lower_cloth": "/Users/abhinavjha/Desktop/binaryClassification_&_segmentation/proper_segmented_clothes/batch_5/class_LowerBodyClothes_c960e8e6d491f2d9e53fe9d93ef612a2.jpg.png",
+            "weather": "Mild",
+            "schedule": "Casual"
+        },
+        {
+            "image_upper_cloth": "/Users/abhinavjha/Desktop/binaryClassification_&_segmentation/proper_segmented_clothes/batch_5/class_UpperBodyClothes_f6f9057f38c7e14c0e30a38dee400171.jpg.png",
+            "image_lower_cloth": "/Users/abhinavjha/Desktop/binaryClassification_&_segmentation/proper_segmented_clothes/batch_5/class_LowerBodyClothes_f6f9057f38c7e14c0e30a38dee400171.jpg.png",
+            "weather": "Cool",
+            "schedule": "Formal"
+        },
+        {
+            "image_upper_cloth": "/Users/abhinavjha/Desktop/binaryClassification_&_segmentation/proper_segmented_clothes/batch_5/class_UpperBodyClothes_ff9ebc25008b97438afea9d969db9701.jpg.png",
+            "image_lower_cloth": "/Users/abhinavjha/Desktop/binaryClassification_&_segmentation/proper_segmented_clothes/batch_5/class_LowerBodyClothes_ff9ebc25008b97438afea9d969db9701.jpg.png",
+            "weather": "Mild",
+            "schedule": "Casual"
+        }
+    ]
+}
